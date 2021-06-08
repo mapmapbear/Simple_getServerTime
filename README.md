@@ -12,9 +12,10 @@ make
 生成两个clien和server的可执行文件，进行测试
 ```
 测试举例：
-client：
+client:
 ./client localhost
 
+server:
 sudo ./server
 
 ```
