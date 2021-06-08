@@ -3,8 +3,8 @@
 基于C/S架构
 
 使用说明:
----
+```
 mkdir build  && cd build
 cmake ..
 make 
----
+```
